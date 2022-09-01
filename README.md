@@ -4,11 +4,11 @@ A gamified XR experience for people to learn about Sustainability and Climate Ac
 # Problem Statement
 ![Problem Statement](https://github.com/aaryan2134/HackWithInfy-VR-Project/blob/main/problem%20statement.jpg)
 # Team Members
-1. Aaryan Arora
-2. Kanika Bansal
-3. Pankaj Mandal
-4. Rohit Kumar Tiwari
-5. Subham Raj
+1. [Aaryan Arora](https://github.com/aaryan2134/)
+2. [Kanika Bansal](https://github.com/Kanika-bansal)
+3. [Pankaj Mandal]()
+4. [Rohit Kumar Tiwari]()
+5. [Subham Raj]()
 
 # Proposed Solution
 
