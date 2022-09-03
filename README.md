@@ -6,7 +6,7 @@ A gamified XR experience for people to learn about Sustainability and Climate Ac
 # Team Members
 1. [Aaryan Arora](https://github.com/aaryan2134/)
 2. [Kanika Bansal](https://github.com/Kanika-bansal)
-3. [Pankaj Mandal]()
+3. [Pankaj Mandal](https://github.com/Pankaj7028)
 4. [Rohit Kumar Tiwari]()
 5. [Subham Raj]()
 
